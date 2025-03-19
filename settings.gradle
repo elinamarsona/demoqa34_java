@@ -1,0 +1,3 @@
+include 'src:main:guru.qa'
+findProject(':src:main:guru.qa')?.name = 'guru.qa'
+
